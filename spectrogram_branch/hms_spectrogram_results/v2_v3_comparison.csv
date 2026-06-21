@@ -1,0 +1,6 @@
+metric,v2_eeg,v3_spectrogram
+KL_divergence,0.84,0.8230506777763367
+macro_AUC,0.85,0.8406572315399293
+accuracy,,0.5465739844782268
+seizure_sensitivity,0.39,0.6056985294114864
+lrda_sensitivity,0.26,0.3306559571615386
